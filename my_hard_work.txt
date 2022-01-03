@@ -9,4 +9,4 @@ line 7 by VIM
 line 8 by VIM
 =======
 change six
->>>>>>> 92389e8df0bd114d74159e612a1a81b5281f8f13
+interesting string
