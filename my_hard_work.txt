@@ -5,3 +5,4 @@ line 4 made on PC
 line 5 for second commit
 line 6 by VIM
 line 7 by VIM
+line 8 by VIM
